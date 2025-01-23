@@ -29,7 +29,7 @@
 }
 
 .main-heading{
-  justify-content: center;
+  text-align: center;
 }
 @keyframes App-logo-spin {
   from {
